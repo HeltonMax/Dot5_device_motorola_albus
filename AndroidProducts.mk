@@ -15,9 +15,9 @@
 
 # inherit Moto Z2 play device config
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_albus.mk
+    $(LOCAL_DIR)/havoc_albus.mk
 
 COMMON_LUNCH_CHOICES := \
-    dot_albus-user \
-    dot_albus-userdebug \
-    dot_albus-eng
+    havoc_albus-user \
+    havoc_albus-userdebug \
+    havoc_albus-eng
